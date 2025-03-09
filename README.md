@@ -25,7 +25,6 @@ The board is managed as a 2D matrix of Cell objects, where each cell can be reve
 📦 Minesweeper Project
 
 ├── src/
-
 │   ├── GameMinesweeper.java  // Game logic
 
 │   ├── MinesweeperFrame.java // GUI implementation
