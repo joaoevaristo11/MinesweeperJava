@@ -41,24 +41,26 @@ The board is managed as a 2D matrix of Cell objects, where each cell can be reve
 
 If you want to run or modify the game, follow these steps:
 
-#Clone the repository
+Clone the repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/Minesweeper.git  
+ git clone https://github.com/YOUR_GITHUB_USERNAME/Minesweeper.git  
 
-#Navigate to the project directory
+Navigate to the project directory
 
-cd Minesweeper  
+ cd Minesweeper  
 
-#Compile the Java files
+Compile the Java files
 
-javac src/*.java  
+ javac src/*.java  
 
-#Run the game
+Run the game
 
-java src.MinesweeperFrame  
+ java src.MinesweeperFrame  
 
-#📬 Contact
+📬 Contact
 
-For any questions or collaborations, feel free to reach out:📧 Email: joao.evaristo.work@gmail.com🔗 LinkedIn: João Evaristo🐙 GitHub: joaoevaristo11
+For any questions or collaborations, feel free to reach out:
+
+📧 Email: joao.evaristo.work@gmail.com🔗 LinkedIn: João Evaristo🐙 GitHub: joaoevaristo11
 
 💡 If you liked this project, consider giving it a ⭐ on GitHub!
