@@ -1,10 +1,10 @@
-🕹️ Minesweeper - Programming III Project
+# 🕹️ Minesweeper - Programming III Project
 
-📌 About the Project
+# 📌 About the Project
 
 This project consists of the development of a graphical application of the Minesweeper game as part of the Programming III course in the Computer Engineering - Networks and Telecommunications degree. The main objective is to consolidate knowledge acquired throughout the semester by applying object-oriented programming (OOP) concepts such as inheritance, polymorphism, and event-driven programming, as well as utilizing data structures and Java Streams API.
 
-🎮 Game Description
+# 🎮 Game Description
 
 Minesweeper is a classic puzzle game where the player must uncover a grid of NxM cells, avoiding hidden mines. The game was developed using a predefined class hierarchy, including:
 
@@ -16,11 +16,11 @@ Cell subclasses: Represent individual board cells with different properties.
 
 The board is managed as a 2D matrix of Cell objects, where each cell can be revealed, flagged, or contain a mine. The game tracks the player’s progress and determines win/lose conditions dynamically.
 
-🚀 Features
+# 🚀 Features
 
 ✅ Fully functional Minesweeper game with different difficulty levels✅ Graphical interface with an interactive grid✅ Timer to track the player's time✅ Win/Lose conditions with real-time updates✅ Leaderboard system that saves top scores✅ Event-driven programming using Java listeners✅ Data persistence to store player records
 
-📂 Project Structure
+# 📂 Project Structure
 
 📦 Minesweeper Project
 ├── src/
