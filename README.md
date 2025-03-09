@@ -23,18 +23,31 @@ The board is managed as a 2D matrix of Cell objects, where each cell can be reve
 # 📂 Project Structure
 
 📦 Minesweeper Project
+
 ├── src/
+
 │   ├── GameMinesweeper.java  // Game logic
+
 │   ├── MinesweeperFrame.java // GUI implementation
+
 │   ├── Cell.java             // Base class for board cells
+
 │   ├── Square.java           // Graphical representation of cells
+
 │   ├── PlayerRecord.java     // Player records and score tracking
+
 │   ├── LeaderBoard.java      // Leaderboard system with file storage
+
 │   ├── GameListener.java     // Interface for event notifications
+
 │   ├── MouseListener.java    // Handles user interactions
+
 │   └── Timer.java            // Manages in-game timer
+
 └── resources/
+
     ├── leaderboard.txt       // Stored player records
+    
     └── icons/                // UI assets
 
 🛠️ How to Run Locally
