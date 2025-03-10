@@ -20,56 +20,39 @@ The board is managed as a 2D matrix of Cell objects, where each cell can be reve
 
 ✅ Fully functional Minesweeper game with different difficulty levels✅ Graphical interface with an interactive grid✅ Timer to track the player's time✅ Win/Lose conditions with real-time updates✅ Leaderboard system that saves top scores✅ Event-driven programming using Java listeners✅ Data persistence to store player records
 
-# 📂 Project Structure
+# 📷 Screenshots about the project
 
-📦 Minesweeper Project
+Firstly we have 3 levels:
+    #Begginer
+![Captura de ecrã 2025-03-10 162702](https://github.com/user-attachments/assets/e2389cc1-88ee-43ab-a404-e4ca4e0fb8e7)
+    #Intermediate
+![Captura de ecrã 2025-03-10 162740](https://github.com/user-attachments/assets/54d0983a-15a8-43bb-b421-3b1d94758c98)
+    #Advanced
+![Captura de ecrã 2025-03-10 162821](https://github.com/user-attachments/assets/e85ca43e-c849-4e1c-90b5-2e600c2e6d8d)
 
-├── src/
-│   ├── GameMinesweeper.java  // Game logic
 
-│   ├── MinesweeperFrame.java // GUI implementation
 
-│   ├── Cell.java             // Base class for board cells
-
-│   ├── Square.java           // Graphical representation of cells
-
-│   ├── PlayerRecord.java     // Player records and score tracking
-
-│   ├── LeaderBoard.java      // Leaderboard system with file storage
-
-│   ├── GameListener.java     // Interface for event notifications
-
-│   ├── MouseListener.java    // Handles user interactions
-
-│   └── Timer.java            // Manages in-game timer
-
-└── resources/
-
-    ├── leaderboard.txt       // Stored player records
-    
-    └── icons/                // UI assets
-
-🛠️ How to Run Locally
+# 🛠️ How to Run Locally
 
 If you want to run or modify the game, follow these steps:
 
-Clone the repository
+# Clone the repository
 
  git clone https://github.com/YOUR_GITHUB_USERNAME/Minesweeper.git  
 
-Navigate to the project directory
+# Navigate to the project directory
 
  cd Minesweeper  
 
-Compile the Java files
+# Compile the Java files
 
  javac src/*.java  
 
-Run the game
+# Run the game
 
  java src.MinesweeperFrame  
 
-📬 Contact
+# 📬 Contact
 
 For any questions or collaborations, feel free to reach out:
 
