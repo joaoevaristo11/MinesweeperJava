@@ -73,7 +73,7 @@ If you want to run or modify the game, follow these steps:
 
 # Run the game
 
- java src.MinesweeperFrame  
+ java src.Minesweeper
 
 # 📬 Contact
 
