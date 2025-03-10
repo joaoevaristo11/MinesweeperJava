@@ -36,8 +36,25 @@ Firstly we have 3 levels:
 
 ![Captura de ecrã 2025-03-10 162821](https://github.com/user-attachments/assets/e85ca43e-c849-4e1c-90b5-2e600c2e6d8d)
 
+When you start the game if you click on the smile icon you will register your name:
 
+![image](https://github.com/user-attachments/assets/10c01ce5-8c75-4a90-af86-fa9418a470db)
 
+The default name is "Player".
+
+After this input you will start the game...
+
+If you win this is the message that will show up on your screen:
+
+![image](https://github.com/user-attachments/assets/2b561807-0523-4ab3-b018-f3890dfbd609)
+
+On this image we can see, a message that informs you that you won, Your time, Your best Time and the top10 Players on that level.
+
+If you loose there is a different one:
+
+![image](https://github.com/user-attachments/assets/e894b5b1-a688-48d8-bf15-4fc77edf6664)
+
+It basically says that you lost, if you have any records it will appear on the screen, but "Emanuel" doesn't have one, so it says "Emanuel has no records in Begginer level". Lastly it shows the top 10 players on that level.
 # 🛠️ How to Run Locally
 
 If you want to run or modify the game, follow these steps:
