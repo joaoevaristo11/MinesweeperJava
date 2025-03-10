@@ -24,15 +24,15 @@ The board is managed as a 2D matrix of Cell objects, where each cell can be reve
 
 Firstly we have 3 levels:
 
-#Begginer
+# Begginer
 
 ![Captura de ecrã 2025-03-10 162702](https://github.com/user-attachments/assets/e2389cc1-88ee-43ab-a404-e4ca4e0fb8e7)
 
-#Intermediate
+# Intermediate
 
 ![Captura de ecrã 2025-03-10 162740](https://github.com/user-attachments/assets/54d0983a-15a8-43bb-b421-3b1d94758c98)
 
-#Advanced
+# Advanced
 
 ![Captura de ecrã 2025-03-10 162821](https://github.com/user-attachments/assets/e85ca43e-c849-4e1c-90b5-2e600c2e6d8d)
 
